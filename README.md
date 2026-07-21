@@ -4,71 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Student Management System API</title>
-
-<style>
-body{
-    font-family: Arial, Helvetica, sans-serif;
-    max-width:1100px;
-    margin:auto;
-    padding:40px;
-    line-height:1.7;
-    background:#f5f5f5;
-    color:#333;
-}
-
-.container{
-    background:#fff;
-    padding:40px;
-    border-radius:10px;
-    box-shadow:0 0 10px rgba(0,0,0,.1);
-}
-
-h1,h2,h3{
-    color:#0d6efd;
-}
-
-table{
-    width:100%;
-    border-collapse:collapse;
-    margin:20px 0;
-}
-
-table th, table td{
-    border:1px solid #ddd;
-    padding:12px;
-    text-align:left;
-}
-
-table th{
-    background:#0d6efd;
-    color:white;
-}
-
-code{
-    background:#efefef;
-    padding:3px 6px;
-    border-radius:4px;
-}
-
-pre{
-    background:#272822;
-    color:white;
-    padding:20px;
-    overflow:auto;
-    border-radius:6px;
-}
-
-hr{
-    margin:40px 0;
-}
-
-ul{
-    margin-top:5px;
-}
-</style>
-
 </head>
-
 <body>
 
 <div class="container">
