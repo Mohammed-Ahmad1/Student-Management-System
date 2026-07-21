@@ -3,15 +3,10 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Student Management System API</title>
 </head>
 <body>
 
 <div class="container">
-
-<h1>Student Management System API</h1>
-
-<h2>Overview</h2>
 
 <p>
 Student Management System API is a RESTful Web API built using
