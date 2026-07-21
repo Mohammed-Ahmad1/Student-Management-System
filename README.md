@@ -10,7 +10,7 @@
 
 <p>
 Student Management System API is a RESTful Web API built using
-<strong>ASP.NET Core</strong>. It provides a complete backend for managing
+<strong>.NET Core </strong>. It provides a complete backend for managing
 students, courses, instructors, departments, and enrollments.
 The project follows a layered architecture that separates presentation,
 business logic, and data access, making the application easy to maintain
